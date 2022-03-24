@@ -86,6 +86,18 @@
     
 }
 
+.sost-black{
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    background-color: rgb(41, 116, 48);
+    padding: 5px;
+    position: absolute;
+    left: 50;
+    bottom: 5%;
+}
+
+
 .sample .cuore{
     font-size: 15px;
     text-align: center;
