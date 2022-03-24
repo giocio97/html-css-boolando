@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.row{
+    margin: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    padding: 20px;
+
+}
+
+
+.sample{
+    width: 300px;
+    height: 450px;
+    background-color: rgb(23, 73, 235);
+}
