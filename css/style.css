@@ -15,8 +15,43 @@
 }
 
 
-.sample{
+.row .sample{
     width: 300px;
     height: 450px;
     background-color: rgb(23, 73, 235);
+    position: relative;
+}
+ .sample .sconto {
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    background-color: red;
+    padding: 5px;
+    position: absolute;
+    left: 0;
+    bottom: 5%;
+    
+
+}
+
+.sample .sost{
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    background-color: rgb(41, 116, 48);
+    padding: 5px;
+    position: absolute;
+    left: 50px;
+    bottom: 5%;
+}
+
+.sample .cuore{
+    font-size: 15px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    position: absolute;
+    top: 5%;
+    right: 0;
 }
