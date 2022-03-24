@@ -105,6 +105,7 @@
 
 .discount {
     color: red;
+    font-weight: bold;
 }
 .first {
     text-decoration: line-through;
